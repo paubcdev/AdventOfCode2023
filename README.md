@@ -5,3 +5,4 @@ This is my 3rd attempt to do the Advent of Code. Again, in Python, since I am wo
 ## Day list
 
 - **Day 1:** Trebuchet? Trebuchet... TREBUCHET! 🌟🌟
+- **Day 2:** Hyper cubes. 🌟🌟

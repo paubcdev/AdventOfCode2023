@@ -1,11 +1,9 @@
 import re
 replacements = {'one': 'on1e', 'two': 'tw2o', 'three': 'thr3e', 'four': 'fo4ur', 'five': 'fi5ve', 'six':
                 'si6x', 'seven': 'sev7en', 'eight': 'ei8ght', 'nine': 'ni9ne'}
-values = []
 
 with open('./inputs/input_day1.txt') as input_raw:
-    for line in input_raw:
-        values.append(line.strip("\n"))
+    values = input_raw.read().strip().split("\n")
 
 
 def part1(val):

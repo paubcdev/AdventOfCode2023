@@ -6,6 +6,10 @@ def aoc(day):
         print("Part 1: " + day01.res1 + "\n" + "Part 2: " + day01.res2 + "\n")
     elif day == '2':
         print("Part 1: " + day02.res1 + "\n" + "Part 2: " + day02.res2 + "\n")
+    elif day == '3':
+        print("Part 1: " + day03.res1 + "\n" + "Part 2: " + day03.res2 + "\n")
+    elif day == 'q':
+        pass
     else:
         print("Specify a day between 1 and 25, q to exit.")
 

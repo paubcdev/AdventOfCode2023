@@ -6,3 +6,4 @@ This is my 3rd attempt to do the Advent of Code. Again, in Python, since I am wo
 
 - **Day 1:** Trebuchet? Trebuchet... TREBUCHET! 🌟🌟
 - **Day 2:** Hyper cubes. 🌟🌟
+- **Day 3:** Allez Cuisine. 🌟🌟

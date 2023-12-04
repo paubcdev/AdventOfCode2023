@@ -2,7 +2,7 @@ import math
 import re
 from collections import defaultdict
 
-with open('./inputs/input_day2.txt') as input_raw:
+with open('../inputs/input_day02.txt') as input_raw:
     values = input_raw.read().strip().split("\n")
 
 
